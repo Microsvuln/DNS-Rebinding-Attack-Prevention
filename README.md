@@ -1,1 +1,1 @@
-# DNS-Rebinding-Attack-Prevention
+# Stopping DNS Rebinding Attacks in the Browser
