@@ -1,6 +1,6 @@
 # Stopping DNS Rebinding Attacks in the Browser
 
-https://www.scitepress.org/PublicationsDetail.aspx?ID=EZrGfpzDJJM=&t=1
+https://www.scitepress.org/Link.aspx?doi=10.5220/0010310705960603
 
 - Abstract
 DNS rebinding attacks circumvent the same-origin policy of browsers and severely jeopardize user privacy. 
